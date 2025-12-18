@@ -1,0 +1,6 @@
+streamlit
+pandas
+numpy
+pydeck
+altair
+streamlit-push-notifications
