@@ -19,6 +19,13 @@ not to build a complete or polished application.
 
 ---
 
+## Assets
+
+Image assets originally used during the design sprint are not included in this repository
+due to unclear redistribution rights. Placeholder images are used instead.
+
+---
+
 ## Third-Party Libraries
 
 This project uses the following open-source library:
